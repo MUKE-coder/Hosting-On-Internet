@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  padding: 2rem 3rem;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+.logo {
+  font-size: 2rem;
+  font-weight: 600;
+}
+nav {
+  background-color: black;
+  padding: 2rem 3rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
